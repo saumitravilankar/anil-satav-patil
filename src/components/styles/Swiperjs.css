@@ -1,0 +1,5 @@
+#swipercarousel{
+    background: linear-gradient(0deg, rgba(90, 86, 86, 0.884), rgba(102, 98, 98, 0.863)), url(../images/swiperjs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

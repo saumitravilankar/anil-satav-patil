@@ -1,0 +1,5 @@
+.introdiv {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.884), rgba(255, 255, 255, 0.863)), url(../images/crowd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
